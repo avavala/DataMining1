@@ -1,7 +1,7 @@
-# Data Mining 1
+# Data Mining 1: Fundations
 **In collaboration with Mario Bianchi**
 
-Data Mining: Foundations
+### Analysis of the dataset IBM HR Analytics Employee Attrition & Performance
 
 Tasks of the project:
 1. Data Understanding: Explore the dataset with the analytical tools studied and write a concise “data understanding” report describing data semantics, assessing data quality, the distribution of the variables and the pairwise correlations.
